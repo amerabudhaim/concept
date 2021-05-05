@@ -1,0 +1,19 @@
+:root{
+    --hbg-c:#f9a828;
+    --logo-c:#07617d;
+
+    --hl-c:#2e383f;
+}
+header {
+    height: 100vh;
+    background-color: var(--hbg-c);
+}
+
+header h1 {
+    color:var(--logo-c);
+}
+header nav a {
+    color:var(--hl-c);
+
+}
+
