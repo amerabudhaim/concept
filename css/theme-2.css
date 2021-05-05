@@ -4,16 +4,4 @@
 
     --hl-c:#2e383f;
 }
-header {
-    height: 100vh;
-    background-color: var(--hbg-c);
-}
-
-header h1 {
-    color:var(--logo-c);
-}
-header nav a {
-    color:var(--hl-c);
-
-}
 

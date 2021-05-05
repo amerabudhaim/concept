@@ -1,0 +1,25 @@
+#themePicker {
+    display: inline-block;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    box-shadow:0 0 5px 1px ;
+}
+#themePicker div {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+}
+
+header {
+    height: 100vh;
+    background-color: var(--hbg-c);
+}
+
+header h1 {
+    color:var(--logo-c);
+}
+header nav a {
+    color:var(--hl-c);
+
+}
